@@ -1,3 +1,4 @@
+# Author: Son Chau
 FROM jupyter/scipy-notebook:33add21fab64
 
 # Install Python 3 packages
